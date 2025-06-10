@@ -1,0 +1,41 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 200px;
+}
+body{
+    height: 100vh;
+    background-color: bisque;
+}
+#card{
+     max-width: 35vw;
+   margin:20vh auto;
+   background-color: white;
+   padding: 30px 20px;
+   border-radius: 20px;
+   text-align: center;
+   box-shadow: 10px 20px 60px rgb(237, 109, 109);
+}
+p{
+    text-align: justify;
+}
+h2,h3,p,button{
+    margin: 10px 0px;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: salmon;
+}
+.fa-brands{
+   margin: 10px;
+   color: rgb(250, 24, 62);
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 246, 246);
+}
